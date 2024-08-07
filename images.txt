@@ -8,3 +8,4 @@ getsentry/snuba:24.1.0
 getsentry/relay:24.1.0
 getsentry/symbolicator:24.1.0
 getsentry/vroom:24.1.0
+node:14.18.0
