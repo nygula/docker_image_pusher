@@ -1,11 +1,4 @@
 mysql:8.2.0
 emqx/emqx:5.7.0
 redis:7.2.5
-docker.elastic.co/kibana/kibana:7.10.0
-docker.elastic.co/kibana/kibana:8.14.1
-getsentry/sentry:24.1.0
-getsentry/snuba:24.1.0
-getsentry/relay:24.1.0
-getsentry/symbolicator:24.1.0
-getsentry/vroom:24.1.0
 node:14.18.0
