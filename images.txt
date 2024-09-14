@@ -1,3 +1,4 @@
+python:3.8.3-alpine
 ghcr.io/mayneyao/eidos:latest
 mysql:8.2.0
 emqx/emqx:5.7.0
