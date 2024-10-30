@@ -1,1 +1,1 @@
-docker-lamp:latest
+consul:latest
