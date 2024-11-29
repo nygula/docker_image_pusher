@@ -1,1 +1,1 @@
-grafana/loki:latest
+portainer/portainer-ce:2.19.5
