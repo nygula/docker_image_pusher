@@ -1,3 +1,4 @@
+containrrr/watchtower
 mysql:8.0.40
 redis:7.4.1
 emqx/emqx:5.8.3
