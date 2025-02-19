@@ -1,4 +1,6 @@
-nginx
+caddy:latest
+node:23.0.8
+nginx 
 minio/minio:RELEASE.2024-11-07T00-52-20Z
 containrrr/watchtower
 exceptionless/exceptionless:latest
