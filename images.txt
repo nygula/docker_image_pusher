@@ -1,12 +1,1 @@
-ghcr.io/cinnamon/kotaemon:main-full
-caddy:latest
-node:23
-node:22
-nginx 
-minio/minio:RELEASE.2024-11-07T00-52-20Z
-containrrr/watchtower
-exceptionless/exceptionless:latest
-mysql:8.0.40
-redis:7.4.1
-emqx/emqx:5.8.3
-mongo:7.0.15
+mysql:5.7.44
