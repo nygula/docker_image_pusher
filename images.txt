@@ -1,1 +1,2 @@
-mysql:5.7.44
+gitea/runner-images:ubuntu-latest
+gitea/act_runner:nightly
