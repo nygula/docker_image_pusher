@@ -1,2 +1,1 @@
-gitea/runner-images:ubuntu-latest
-gitea/act_runner:nightly
+moby/buildkit:master
