@@ -1,1 +1,2 @@
-moby/buildkit:master
+registry.rocket.chat/rocketchat/rocket.chat:latest
+docker.io/bitnami/mongodb:6.0
