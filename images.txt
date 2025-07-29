@@ -1,1 +1,3 @@
 moby/buildkit:master
+ghcr.io/colanode/server:latest
+ghcr.io/colanode/web:latest
