@@ -1,2 +1,3 @@
 ghcr.io/colanode/server:latest
 ghcr.io/colanode/web:latest
+casbin/casdoor:v2.8.0
