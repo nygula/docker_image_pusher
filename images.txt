@@ -1,3 +1,5 @@
-ghcr.io/colanode/server:latest
-ghcr.io/colanode/web:latest
-casbin/casdoor:v2.8.0
+mysql:8.4.6
+redis:7.4.5
+mongo:7.0.22
+minio/minio:RELEASE.2025-07-23T15-54-02Z
+emqx/emqx:5.10.0
