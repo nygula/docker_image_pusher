@@ -1,3 +1,6 @@
+timescale/timescaledb-ha:pg17
+timescale/timescaledb:latest-pg17
+timescale/timescaledb:latest-pg18
 mysql:8.0.43
 redis:7.4.5
 mongo:7.0.23
