@@ -1,3 +1,6 @@
+n8nio/n8n:latest
+soulter/astrbot:v4.12.3
+lss233/kirara-agent-framework:v3.2.0
 timescale/timescaledb-ha:pg17
 timescale/timescaledb:latest-pg17
 timescale/timescaledb:latest-pg18
