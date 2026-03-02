@@ -1,1 +1,3 @@
-ghcr.io/raylabshq/gitea-mirror:latest
+mcr.microsoft.com/dotnet/aspnet:10.0
+mcr.microsoft.com/dotnet/aspnet:9.0
+mcr.microsoft.com/dotnet/aspnet:8.0
